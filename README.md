@@ -2,8 +2,12 @@
 
 <h1>Hi there, I'm Vu Van Hung 👋</h1>
 
+<!-- Dòng chữ tĩnh "AI Enthusiast" (Màu xanh dương, KHÔNG hiệu ứng) -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=AI%20Enthusiast&fontColor=3B82F6&fontSize=30&height=40" alt="AI Enthusiast" />
+
+<!-- Các dòng chữ chuyển tiếp (Màu xanh lá) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Machine+Learning;Deep+Learning;Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Machine+Learning;Deep+Learning;Computer+Vision" alt="Typing SVG" />
 </a>
 
 <br><br>
