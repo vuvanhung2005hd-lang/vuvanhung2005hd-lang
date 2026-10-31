@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="left">
+  <h1>Hi there, I'm Vu Van Hung 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&vCenter=true&width=500&lines=AI+Enthusiast;Machine+Learning;Deep+Learning;Computer+Vision" alt="Typing SVG" />
+</div>
 
-<!--
-**vuvanhung2005hd-lang/vuvanhung2005hd-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### `> whoami`
+```python
+class AIEnthusiast:
+    def __init__(self):
+        self.name = "Vu Van Hung"
+        self.role = "AI Enthusiast"
+        self.current_focus = ["Machine Learning", "Deep Learning", "Computer Vision"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def get_tools(self):
+        return ["Python", "C++", "PyTorch", "Scikit-learn", "OpenCV", "Pandas", "NumPy"]
+
