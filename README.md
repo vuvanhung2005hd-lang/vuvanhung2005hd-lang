@@ -24,4 +24,4 @@
 ```yaml
 name: Vu Van Hung
 currently_learning: [Machine Learning, Deep Learning, Computer Vision]
-tech_stack: [PyTorch, Scikit-learn, OpenCV, Pandas, NumPy]
+tech_stack: [Python, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy]
